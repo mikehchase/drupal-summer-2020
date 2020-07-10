@@ -1,0 +1,4 @@
+#Ignore the sql backup file(S) 
+#
+my-detest.sql
+my-my-drupaldb-backup.sql
